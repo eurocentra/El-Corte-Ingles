@@ -697,9 +697,9 @@ chart.load([
     img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Sikandar Ali.png',
   },
   {
-    name: 'Sikandar Solangi',
+    name: 'Shahriyar Ahmed',
     id: 'Shahriyar Ahmed',
-    pid: 'Shahriyar Ahmed',
+    pid: 'Sikandar Solangi',
     title: 'Librarian',
     img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Shahriyar Ahmed.png',
   },

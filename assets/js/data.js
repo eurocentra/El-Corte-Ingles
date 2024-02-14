@@ -524,11 +524,11 @@ chart.load([
     img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Wanhar Mushtaq.png',
   },
   {
-    name: 'Syed Faisal Iqbal',
-    id: 'Syed Faisal Iqbal',
+    name: 'Faisal Shah',
+    id: 'Faisal Shah',
     pid: 'Danish Paracha',
     title: 'Technical Lead',
-    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/S M Faisal Iqbal.png',
+    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Faisal Shah.png',
   },
   {
     name: 'MIS',
@@ -549,6 +549,14 @@ chart.load([
   {
     name: 'Logistics',
     id: 'Logistics',
+    pid: 'Zahid Sajjad',
+    title: '',
+    img: '',
+    email: ''
+  },
+  {
+    name: 'Product Library',
+    id: 'Product Library',
     pid: 'Zahid Sajjad',
     title: '',
     img: '',
@@ -629,7 +637,7 @@ chart.load([
     id: 'Muhammad Safwan',
     pid: 'Hr',
     name: 'Muhammad Safwan',
-    title: 'HR Manager',
+    title: 'HR Excutive',
     img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Muhammad Safwan Khan.png',
   },
   {
@@ -684,15 +692,22 @@ chart.load([
   {
     name: 'Sikandar Solangi',
     id: 'Sikandar Solangi',
-    pid: 'Umair Ahmed',
-    title: 'Librarian',
+    pid: 'Product Library',
+    title: 'Librarian Incharge',
     img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Sikandar Ali.png',
+  },
+  {
+    name: 'Sikandar Solangi',
+    id: 'Shahriyar Ahmed',
+    pid: 'Shahriyar Ahmed',
+    title: 'Librarian',
+    img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Shahriyar Ahmed.png',
   },
   {
     name: 'Sajjad Hussain',
     id: 'Sajjad Hussain',
     pid: 'Madni Khan',
-    title: 'IT & Communication Manager',
+    title: 'Associate Finance & IT Manager',
     img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Sajjad Hussain.png',
   },
   {

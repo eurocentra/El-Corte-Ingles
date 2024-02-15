@@ -279,8 +279,8 @@ chart.load([
   {
     name: 'Muhammad Atif',
     id: 'Muhammad Atif',
-    pid: 'Fahad Majeed',
-    title: 'Assistant Merchandising Manager',
+    pid: 'Ghulam Mustafa',
+    title: 'Deputy Merchandising Manager',
     img: 'https://eurocentra.github.io/El-Corte-Ingles/assets/images/Color/Muhammad Atif.png',
   },
   {
